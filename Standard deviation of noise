@@ -1,1 +1,3 @@
 Changing around the line where I created the noise, I observed how using different standard deviations altered it, seeing how strong I could make the noise before the signal could no longer be easily recognised.
+Since the sine wave has an amplitude of 1, at a standard deviation of 1 the noise is roughly as large as the signal's amplitude, making it quite difficult to recognise.
+At a standard deviation of 2, the sine wave was very hard to recognise by eye.
