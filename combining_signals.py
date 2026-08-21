@@ -16,7 +16,7 @@ signal = (
 )
 
 # Creating noise
-noise = np.random.normal(0, 2, len(t))
+noise = np.random.normal(0, 0.5, len(t))
 
 # Adding noise to the signal
 noisy_signal = signal + noise
